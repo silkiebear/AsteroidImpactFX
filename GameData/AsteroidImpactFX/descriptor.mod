@@ -5,7 +5,6 @@
     "author": "silkiebear",
     "description": "Adds visual effects when asteroids impact celestial bodies",
     "download": "https://github.com/silkiebear/AsteroidImpactFX/releases/download/v1.0.0/AsteroidImpactFX-1.0.0.zip",
-    "screenshot": "https://raw.githubusercontent.com/silkiebear/AsteroidImpactFX/master/screenshots/main.png",
     "license": "GPL-3.0",
     "tags": ["visual-effects", "asteroids", "impacts"],
     "dependencies": [
