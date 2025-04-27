@@ -4,7 +4,7 @@
     "ksp_version": "1.12.5",
     "author": "silkiebear",
     "description": "Adds visual effects when asteroids impact celestial bodies",
-    "download": "https://github.com/silkiebear/AsteroidImpactFX/releases/download/v1.0.0/AsteroidImpactFX-1.0.0.zip",
+    "download": "https://github.com/silkiebear/AsteroidImpactFX/archive/refs/tags/v1.0.0.zip",
     "license": "GPL-3.0",
     "tags": ["visual-effects", "asteroids", "impacts"],
     "dependencies": [
