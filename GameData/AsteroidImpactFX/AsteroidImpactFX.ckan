@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "AsteroidImpactFX",
+    "name": "Asteroid Impact FX",
+    "abstract": "Adds visual effects when asteroids impact celestial bodies",
+    "description": "This mod adds visual effects (explosion, mushroom cloud, light flash) when asteroids impact planets or moons. It works with the game's existing asteroid impact simulation, making these events visible even when they occur outside the player's physics range.",
+    "author": "yourusername",
+    "license": "GPL-3.0",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://github.com/silkiebear/AsteroidImpactFX",
+        "repository": "https://github.com/silkiebear/AsteroidImpactFX.git",
+        "bugtracker": "https://github.com/silkiebear/AsteroidImpactFX/issues"
+    },
+    "version": "1.0.0",
+    "ksp_version": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "ksp_version_max": "1.12.99",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "StockWaterfallEffects"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Firefly"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/AsteroidImpactFX",
+            "install_to": "GameData"
+        }
+    ]
+} 
